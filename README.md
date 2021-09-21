@@ -1,4 +1,4 @@
-[link](https://pro.fontawesome.com/releases/v5.10.0/css/all.css)
+https://pro.fontawesome.com/releases/v5.10.0/css/all.css
 # **Assalomu alaykum va rohmatullohi va barokatuh!**
 # **Men Shukurov Hojiakbar**
 <i class="fab fa-html5 html"></i>
